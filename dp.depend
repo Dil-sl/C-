@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631443345 source:d:\futurebridge\advanced\c++\new2\dp\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+
